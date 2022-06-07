@@ -22,7 +22,7 @@ public class Portfolio {
     @Column(length=400, nullable=false)
     private String descriptionProfesional;
 
-    @Column(length=60, nullable=false)
+    @Column(length=100, nullable=true)
     private String urlImageProfile;
 
     @Column(nullable=true)
