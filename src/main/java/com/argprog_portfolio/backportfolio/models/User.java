@@ -1,4 +1,4 @@
-package com.argprog_portfolio.backportfolio.model;
+package com.argprog_portfolio.backportfolio.models;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
